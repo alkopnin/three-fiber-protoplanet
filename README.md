@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Protoplanet Example  
 
 The self-education project that partially re-implement the [webgl-protoplanet](https://threejs.org/examples/?q=prot#webgl_gpgpu_protoplanet) example using [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Download the dependencies and create node_module folder.
 
 ### `npm start`
 
