@@ -1,6 +1,6 @@
 # Protoplanet Example  
 
-The self-education project that partially re-implement the [webgl-protoplanet](https://threejs.org/examples/?q=prot#webgl_gpgpu_protoplanet) example using [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+Self-study of Creative Coding in Web. The expremental project that re-implements [webgl-protoplanet](https://threejs.org/examples/?q=prot#webgl_gpgpu_protoplanet) example using [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 
 ## Available Scripts
 
